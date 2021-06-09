@@ -2,3 +2,4 @@ HST RESOLUSI
 - Membuat aplikasi sederhana untuk inventaris sekolah 
 - Membuat website untuk SMPK Santo Yusup Mojokerto
 - Membuat aplikasi e-Presensi untuk karyawan SMPK
+- Melanjutkan penjualan food product secara online
